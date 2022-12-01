@@ -1,7 +1,7 @@
-👋 Hi, I’m @nickspiess, I'm a developer and soon-to-be-graduate from Eau Claire, WI and I'm looking to move out to Colorado.
-👀 I’m interested in Brain-Computer Interface tech, the blockchain industry, and getting into full-stack development.
-🌱 I’m currently learning Tensorflow, Keras and EEG signal analysis for a Motor-Imagery BCI System and the IBM Hyperledger framework.
-💞️ I’m looking to collaborate on anything biofeedback or blockchain related
+👋 Hi, I’m @nickspiess, I'm a Python developer and graduate from UW-Eau Claire where I studied computer science and neuroscience.
+👀 I’m interested in Brain-Computer Interface tech, blockchain technologies, and getting into full-stack development.
+🌱 I'm currently working on learning the React/Redux framework, on top of a million other side interests.
+💞️ I’m looking to collaborate on anything biofeedback or blockchain related devices.
 📫 How to reach me : nickspiess23@gmail.com
 
 <!---
