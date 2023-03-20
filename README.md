@@ -1,8 +1,10 @@
-👋 Hi, I’m @nickspiess, I'm a Python developer and graduate from UW-Eau Claire where I studied computer science and neuroscience.
-👀 I’m interested in Brain-Computer Interface tech, blockchain technologies, and getting into full-stack development.
-🌱 I'm currently working on learning the React/Redux framework, on top of a million other side interests.
-💞️ I’m looking to collaborate on anything biofeedback or blockchain related devices.
-📫 How to reach me : nickspiess23@gmail.com
+Hi, my name is Nick Spiess.  I'm a 26 year old dev based in Colorado.
+
+I have experience in front-end and back-end technologies, mainly focusing on React frameworks.  I currently work as an Automation Python Engineer and am working on building a small business website.
+
+I am extremely passionate about using Deep learning algorithms to monitor bioinformatic neural data and blockchain technologies.
+
+Feel free to reach out if you share any of the same interests.
 
 <!---
 nickspiess/nickspiess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
