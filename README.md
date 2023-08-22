@@ -1,8 +1,10 @@
 Hi, my name is Nick Spiess.  I'm a 26 year old dev based in Colorado.
 
-I have experience in front-end and back-end technologies, mainly focusing on React frameworks.  I currently work as an Automation Python Engineer and am working on building a small business website.
+I work primarily as an Automation Engineer and do freelance web development on the side, check out my portfolio site @ https://www.realnickspiess.io
 
-I am extremely passionate about using Deep learning algorithms to monitor bioinformatic neural data and blockchain technologies.
+The main project I'm working on right now is a marathon training plan generator app.
+
+I am also very passionate about using Deep learning algorithms to monitor bioinformatic neural data.
 
 Feel free to reach out if you share any of the same interests.
 
