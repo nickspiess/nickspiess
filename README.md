@@ -1,6 +1,6 @@
 Hi, my name is Nick Spiess.  I'm a 26 year old dev based in Colorado.
 
-I work primarily as an Automation Engineer and do freelance web development on the side, check out my portfolio site @ https://www.realnickspiess.io
+I work primarily as a QA Engineer and do freelance web development on the side, check out my portfolio site @ https://www.spiess.tech
 
 The main project I'm working on right now is a marathon training plan generator app.
 
