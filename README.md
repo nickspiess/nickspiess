@@ -1,8 +1,8 @@
-Hi, my name is Nick Spiess.  I'm a 26 year old dev based in Colorado.
+Hi, my name is Nick Spiess.  I'm a 28 year old dev based in Colorado.
 
 I work primarily as a QA Engineer and do freelance web development on the side, check out my portfolio site @ https://www.spiess.tech
 
-The main project I'm working on right now is a marathon training plan generator app.
+The main project I'm working on right now is a marathon training plan generator app, check out https://run-it-delta.vercel.app/ to see what I've been building (desktop only).
 
 I am also very passionate about using Deep learning algorithms to monitor bioinformatic neural data.
 
